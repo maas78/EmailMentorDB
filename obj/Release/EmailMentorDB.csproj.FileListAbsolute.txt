@@ -1,0 +1,11 @@
+D:\mes documents\PROJET C\EmailMentorDB\bin\Release\EmailMentorDB.exe.config
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\Interop.ADODB.dll
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.csproj.ResolveComReference.cache
+D:\mes documents\PROJET C\EmailMentorDB\bin\Release\EmailMentorDB.exe
+D:\mes documents\PROJET C\EmailMentorDB\bin\Release\EmailMentorDB.pdb
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.frmMain.resources
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.Properties.Resources.resources
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.csproj.GenerateResource.Cache
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.exe
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.pdb
+D:\mes documents\PROJET C\EmailMentorDB\obj\Release\EmailMentorDB.csprojResolveAssemblyReference.cache

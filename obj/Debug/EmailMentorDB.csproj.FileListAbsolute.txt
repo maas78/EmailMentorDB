@@ -1,0 +1,18 @@
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\EmailMentorDB.csprojResolveAssemblyReference.cache
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\Interop.ADODB.dll
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\EmailMentorDB.csproj.ResolveComReference.cache
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\EmailMentorDB.frmMain.resources
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\EmailMentorDB.Properties.Resources.resources
+\\dcserver\usager$\DanielQ\mes documents\PROJET\c#\EmailMentorDB\obj\Debug\EmailMentorDB.csproj.GenerateResource.Cache
+\\dcserver\usager$\danielq\mes documents\PROJET\c#\EmailMentorDB\bin\Debug\EmailMentorDB.exe.config
+D:\mes documents\PROJET C\EmailMentorDB\bin\Debug\EmailMentorDB.exe.config
+D:\mes documents\PROJET C\EmailMentorDB\bin\Debug\EmailMentorDB.exe
+D:\mes documents\PROJET C\EmailMentorDB\bin\Debug\EmailMentorDB.pdb
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\Interop.ADODB.dll
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.csproj.ResolveComReference.cache
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.frmMain.resources
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.Properties.Resources.resources
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.csproj.GenerateResource.Cache
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.exe
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.pdb
+D:\mes documents\PROJET C\EmailMentorDB\obj\Debug\EmailMentorDB.csprojResolveAssemblyReference.cache
